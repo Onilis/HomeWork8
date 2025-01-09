@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea
+HomeWork8.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
